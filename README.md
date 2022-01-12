@@ -1,2 +1,2 @@
 # Bank-Management-System
-In this repository I have created a Bank Management System by using C programming language and File handling concept.
+Developed a Bank management system by using C programming language and file handling concept for both Employer and Consumer point of view.By using this system we can create our own bank account,check our balance ,Withdraw and Deposit money by using this we can easily applied Cheque Book and Debit Card and easily get our personal information which we stored in our bank account.From Employer point of view he/she can easily view the account or easily modify them by changing consumer personal information.
